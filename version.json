@@ -5,25 +5,25 @@
       "version": "1.2",
       "date": "2025-03-24",
       "changes": [
-        "New Stuff.",
-        "Added changelog modal with ping notifications.",
-        "Minor UI enhancements and bug fixes."
+        "Added new Feedback, ChangeLog, and Files Features",
+        "Added added the ability to switch the model for individual chats now",
+        "Can now switch between gpt-4, gpt-4o, and gpt-4o-mini"
       ]
     },
     {
       "version": "1.1",
-      "date": "2025-03-22",
+      "date": "2025-02-21",
       "changes": [
-        "Improved dark mode styling.",
-        "Added changelog modal with ping notifications.",
+        "Moved from gpt-4 to gpt-4o for the chat model",
+        "Resolved an issue with the Azure AI Search",
         "Minor UI enhancements and bug fixes."
       ]
     },
     {
       "version": "1.0",
-      "date": "2025-03-01",
+      "date": "2024-05-02",
       "changes": [
-        "Initial beta release.",
+        "Initial alpha release.",
         "Core AI-Generated Insights & Logic Engine implemented."
       ]
     }

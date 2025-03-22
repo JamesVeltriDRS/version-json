@@ -1,6 +1,15 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "changelog": [
+    {
+      "version": "1.2",
+      "date": "2025-03-24",
+      "changes": [
+        "New Stuff.",
+        "Added changelog modal with ping notifications.",
+        "Minor UI enhancements and bug fixes."
+      ]
+    },
     {
       "version": "1.1",
       "date": "2025-03-22",
